@@ -8,7 +8,7 @@ GitHub: https://github.com/robsondesenvolvimento<br>
 LinkedIn: https://www.linkedin.com/in/robson-curitiba/<br>
 Site: https://www.robsonalves.dev.br<br>
 
-### <b>:brain: &nbsp;Aprendendo</b></summary><br/>
+### <b>:brain: &nbsp;Programador</b></summary><br/>
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
