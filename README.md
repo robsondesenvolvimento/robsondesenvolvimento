@@ -31,7 +31,4 @@
 </div>
 
    ##
-
-<div>
   ![Snake animation](https://github.com/robsondesenvolvimento/robsondesenvolvimento/blob/output/github-contribution-grid-snake.svg)
-</div>
