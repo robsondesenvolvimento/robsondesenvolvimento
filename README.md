@@ -2,8 +2,8 @@
 
  <div>
    <a href="https://github.com/robsondesenvolvimento">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robsondesenvolvimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsondesenvolvimento&layout=compact&langs_count=7&theme=tokyonight&hide=css,html&langs_count=10"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=robsondesenvolvimento&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robsondesenvolvimento&layout=compact&langs_count=7&theme=tokyonight&hide=css,html&langs_count=10"/>
     </a>
 </div>
 <div style="display: inline_block"><br>
