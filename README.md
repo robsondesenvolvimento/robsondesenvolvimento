@@ -37,6 +37,3 @@
     <img align="center" alt="VisualStudioCode" height="150em" src="https://github.com/robsondesenvolvimento/robsondesenvolvimento/blob/output/github-contribution-grid-snake.svg">
   </a>
 </div>
-
-   ##
-  ![Snake animation](https://github.com/robsondesenvolvimento/robsondesenvolvimento/blob/output/github-contribution-grid-snake.svg)
